@@ -7,32 +7,3 @@ for (int i = 0; i <=10; i++) {
 }
 
 
-
-class SimpleJava4{
-public static void main(String args[]){
-for (int i = 0; i <=10; i++) {
-  System.out.println("Simple Java3");
-	}
-}
-}
-
-
-class SimpleJava5{
-public static void main(String args[]){
-for (int i = 0; i <=10; i++) {
-  System.out.println("Simple Java3");
-	}
-}
-}
-
-
-class SimpleJava6{
-public static void main(String args[]){
-for (int i = 0; i <=10; i++) {
-  System.out.println("Simple Java3");
-	}
-}
-}
-
-
-
